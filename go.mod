@@ -1,4 +1,4 @@
-module github.com/viniciuswaltrick98/presto_go
+module github.com/klebersnunes/presto_go
 
 go 1.14
 
